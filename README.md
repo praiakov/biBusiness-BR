@@ -26,6 +26,14 @@ Empresa | Site | Contato | Ferramentas
  --- | --- | --- | --- 
 Bi9 Tecnologia | http://bi9.com.br | (31) 2512-0109 | GoodData, Power Bi, Datazen 
 
+### São Paulo
+
+#### São Paulo
+
+Empresa | Site | Contato | Ferramentas
+ --- | --- | --- | --- 
+BlueSoft | https://www.bluesoft.com.br | (11) 5543-5406 | Tableau 
+
 
 ## Sul
 
