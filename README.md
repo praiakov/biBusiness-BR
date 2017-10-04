@@ -47,4 +47,5 @@ Bilden | http://www.bildennegocios.com.br | contato@bildennegocios.com.br | Qlik
 Ausland | http://ausland.com.br | contato@ausland.com.br | Qlik
 GTI it Solutions | http://www.gticonsultoria.com.br | contato@gticonsultoria.com.br | Power Bi
 Sight | http://sight-bi.com.br | comercial@sight-bi.com.br | QlikView, Pentaho, MicroStrategy, Cognos
+Go4 Solutions | http://go4solutions.com.br | comercial@go4solutions.com.br | Qlik
 
