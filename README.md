@@ -27,6 +27,12 @@ Empresa | Site | Contato | Ferramentas
 Bi9 Tecnologia | http://bi9.com.br | (31) 2512-0109 | GoodData, Power Bi, Datazen 
 Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power Bi
 
+#### Cataguases
+
+Empresa | Site | Contato | Ferramentas
+ --- | --- | --- | --- 
+Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power Bi, MicroStrategy
+
 ### São Paulo
 
 #### São Paulo
