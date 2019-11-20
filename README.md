@@ -31,7 +31,7 @@ Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power
 
 Empresa | Site | Contato | Ferramentas
  --- | --- | --- | --- 
-Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power Bi, MicroStrategy
+Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power Bi, MicroStrategy, Qlik
 
 ### São Paulo
 
