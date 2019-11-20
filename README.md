@@ -25,7 +25,6 @@ RedMaxx | http://www.redmaxx.com.br | contato@redmaxx.com.br | Qlik, Power Bi
 Empresa | Site | Contato | Ferramentas
  --- | --- | --- | --- 
 Bi9 Tecnologia | http://bi9.com.br | (31) 2512-0109 | GoodData, Power Bi, Datazen 
-Energisa | https://www.energisa.com.br/  | https://www.energisa.com.br/  | Power Bi
 
 #### Cataguases
 
